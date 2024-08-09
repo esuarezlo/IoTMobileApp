@@ -2,8 +2,8 @@
 #include <PubSubClient.h>
 
 // WiFi settings
-const char *ssid = "IngSAC1";          // Replace with your WiFi name
-const char *password = "Termita5432";  // Replace with your WiFi password
+const char *ssid = "xxxxxx";          // Replace with your WiFi name
+const char *password = "yyyyyy";  // Replace with your WiFi password
 
 // MQTT Broker settings
 const char *mqtt_broker = "broker.emqx.io";  // EMQX broker endpoint
